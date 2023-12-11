@@ -15,7 +15,8 @@
 
 # Documentação
 
-O trabalho foi feito no Blender conforme tutorial de um vídeo do Youtube (https://youtu.be/s13o-pEDqxY?si=y0Qn7l6UH3cf_iNY), que consiste na criação de um pilar baseado em uma imagem de referencia. Utilizamos somente o cubo da tela inicial do Blender e a modelagem do pilar foi feita atraves da ferramenta estrudar. Foi aplicada uma textura de marmore ao pilar e foi criado um plano abaixo dele com o nome dos integrantes do grupo. 
+O trabalho foi feito no Blender conforme tutorial de um vídeo do Youtube (https://youtu.be/s13o-pEDqxY?si=y0Qn7l6UH3cf_iNY), 
+que consiste na criação de um pilar baseado em uma imagem de referencia. Utilizamos somente o cubo da tela inicial do Blender e a modelagem do pilar foi feita atraves da ferramenta estrudar. Foi aplicada uma textura de marmore ao pilar e foi criado um plano abaixo dele com o nome dos integrantes do grupo. 
 
 # Código
 
